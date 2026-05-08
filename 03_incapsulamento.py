@@ -1,4 +1,3 @@
-
 class Libro:
     def __init__(self, titolo, pagine, prezzo):
         self.titolo = titolo      # Attributo Pubbblico 

@@ -148,6 +148,14 @@ class LinkedList:
 
     def size(self):
         return self.__size
+    
+    def search(self, target):
+        corrente = self.__testa
+        while corrente:           
+            if corrente.valore == target:
+                return True
+            corrente = corrente.next
+        return False
 
     def __repr__(self):
         elementi = []

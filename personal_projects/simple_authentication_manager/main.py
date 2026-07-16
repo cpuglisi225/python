@@ -1,15 +1,16 @@
 """
-Password Manager with hashib module
+Simple Authentication Manager
 
-A simple password manager prototype.
-Users can register and authenticate using hashed passwords.
+A small authentication system prototype.
+Users can register and login using hashed passwords.
 
-Passwords are stored as SHA-256 hashes in a local file database.
+Passwords are stored as SHA-256 hashes
+inside a local file database.
 
-This project is for educational purposes and demonstrates:
-- file handling
+This project demonstrates:
 - password hashing
-- basic user authentication
+- file handling
+- user authentication
 """
 
 import hashlib

@@ -10,6 +10,10 @@ Raccolta di esercizi assegnati per il corso di programmazione in python.
 - [16 - 17] Binary Search Tree (BST) e test di performance
 - 18-adt.py : Implementazioni complete di ADT
 - adt.py modulo con implementazione delle principali strutture dati (ADT)
+- Progetti personali:
+    - Diceware Passphrase Generator (con modulo secrets)
+    - Password Manager (con modulo hashlib)
+    - 
 
 ## Note
 

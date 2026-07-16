@@ -12,8 +12,8 @@ Raccolta di esercizi assegnati per il corso di programmazione in python.
 - adt.py modulo con implementazione delle principali strutture dati (ADT)
 - Progetti personali:
     - Diceware Passphrase Generator (con modulo secrets)
-    - Password Manager (con modulo hashlib)
-    - 
+    - Simple Authentication Manager (con modulo hashlib)
+
 
 ## Note
 

@@ -11,14 +11,12 @@ Raccolta di esercizi assegnati per il corso di programmazione in python.
 - 18-adt.py : Implementazioni complete di ADT
 - adt.py modulo con implementazione delle principali strutture dati (ADT)
 - Progetti personali:
-    - Diceware Passphrase Generator (con modulo secrets)
-    - Simple Authentication Manager (con modulo hashlib)
-
+  - Diceware Passphrase Generator (con modulo secrets)
+  - Simple Authentication Manager (con modulo hashlib)
+  - Graph Traversal Visualizer ((HTML/CSS/JavaScript)
 
 ## Note
 
 - I file sono numerati in ordine di introduzione dei concetti
 - Alcuni file contengono confronti di performance tra strutture dati
 - Alcuni programmi possono richiedere l'importazione del modulo 'adt.py'
-
-
